@@ -5,6 +5,8 @@
 
 | [![iafi01's GitHub stats](https://github-readme-stats.vercel.app/api?username=iafi01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/iafi01?tab=repositories) | [![iafi01's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01&layout=compact&hide_border=true&theme=jolly)](https://github.com/iafi01?tab=repositories) |
 |:-:|:-:|
+<img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
+
 <!--
 **iafi01/iafi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
