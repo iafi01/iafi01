@@ -2,7 +2,7 @@
 <html>
   <head></head>
   <body>
-  <img src="https://i.gifer.com/78Fx.gif" width="30px">
+  <img src="universe.gif" width="30px">
    </body>
   </html>
 <!--
