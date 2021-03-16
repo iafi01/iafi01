@@ -1,5 +1,10 @@
 ### Hi everyone 👋
-
+<html>
+  <head></head>
+  <body>
+  <img src="https://i.gifer.com/78Fx.gif" width="30px>
+   </body>
+  </html>
 <!--
 **iafi01/iafi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
