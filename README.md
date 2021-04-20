@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![iafi01's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
+[![iafi01's 42 stats](https://badge42.herokuapp.com/api/stats/liafigli)](https://github.com/JaeSeoKim/badge42)
 
