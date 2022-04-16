@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![liafigli's 42 stats](https://badge42.herokuapp.com/api/stats/liafigli?privacyEmail=true)
 
 
