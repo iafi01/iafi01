@@ -3,7 +3,7 @@
   <img style="margin:auto;" src="universe.gif" width="100%">
 
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl224uvnh004509kwe7hklo7n/stats?cursusId=21&coalitionId=125" alt="liafigli's 42 stats" /></a>
+[![liafigli's 42 stats](https://badge42.vercel.app/api/v2/cl224uvnh004509kwe7hklo7n/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **iafi01/iafi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
