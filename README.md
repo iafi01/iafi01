@@ -3,9 +3,7 @@
   <img style="margin:auto;" src="universe.gif" width="100%">
 
 
-| [![iafi01's GitHub stats](https://github-readme-stats.vercel.app/api?username=iafi01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/iafi01?tab=repositories) | [![iafi01's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01&layout=compact&hide_border=true&theme=jolly)](https://github.com/iafi01?tab=repositories) |
-|:-:|:-:|
-<img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
+[![liafigli's 42 stats](https://badge42.vercel.app/api/v2/cl224uvnh004509kwe7hklo7n/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **iafi01/iafi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
