@@ -1,8 +1,8 @@
 <h3 align="center">IAFI 👋 </h3>
 <h4  align="center"><a href="https://github.com/iafi01/42corso">42 Cursus Projects</a></h4>
   <img style="margin:auto;" src="universe.gif" width="100%">
-  <img style="margin:auto;" src="42.PNG" width="100%">
-
+  <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42.PNG" width="100%">
+  42 Cursus Projects</a>
 
 [![liafigli's 42 stats](https://badge42.vercel.app/api/v2/cl224uvnh004509kwe7hklo7n/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
 
