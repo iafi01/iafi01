@@ -1,4 +1,4 @@
-<h3 align="center">IAFIIIII 👋 </h3>
+<h3 align="center">IAFI 👋 </h3>
 
   <img style="margin:auto;" src="universe.gif" width="100%">
 
