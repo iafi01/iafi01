@@ -44,7 +44,7 @@ Strong Languages & Tools: <br><br>
 <img align="left" style="position: relative; top: 20px;"alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" style="position: relative; top: 20px;"alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 <img align="left" style="position: relative; top: 20px;"alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30px"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30px"/>
 <br><br>
     </td>
   </tr>
