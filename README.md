@@ -1,6 +1,6 @@
 
-<h1 align="center">Lorenzo is a 42 Student</h1>
-<a href="https://en.wikipedia.org/wiki/42_(school)"><h2 align="center">Who is a 42 Student?</h2></a>
+<h1 align="center">Lorenzo graduate at 42</h1>
+<a href="https://en.wikipedia.org/wiki/42_(school)"><h2 align="center">Who is 42 ?</h2></a>
 <table>
 <tr>
 <td><img src="42_rank.jpeg" alt="rank" style="width:100%"></td>
