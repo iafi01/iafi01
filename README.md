@@ -1,7 +1,30 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 <h3 align="center">IAFI 👋 </h3>
 <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
-  <img style="margin:auto;" src="42_rank.jpeg" width="50%">
-  <img style="margin:auto;" src="42_leaderboard.jpeg" width="50%">
+<div class="row">
+  <div class="column">
+    <img src="42_rank.jpeg" alt="rank" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="42_leaderboard.png" alt="leaderboard" style="width:100%">
+  </div>
   <h1 align="center">My Student Profile</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
