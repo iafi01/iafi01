@@ -1,6 +1,6 @@
 
-<h3 align="center">IAFI 👋 </h3>
-<a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
+<h3 align="center">Lorenzo is a 42 Student</h3>
+<a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student?</h1></a>
 <table>
 <tr>
 <td><img src="42_rank.jpeg" alt="rank" style="width:100%"></td>
