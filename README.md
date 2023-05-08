@@ -7,7 +7,7 @@
   <h1 align="center" style="text-decoration: underline;">See my projects here</h1>
   # 42corso
   <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">What is 42?</h1></a>
-  <img style="margin:auto;" src="42_rank.jpeg" width="100%">
+  <img style="margin:auto;" src="42_rank.jpeg" width="65%">
   <a href="">Top Ten World University</a>
 <h3>Repositories are based on: C, C++, Docker and Web</h3>
 <table>
