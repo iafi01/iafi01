@@ -25,7 +25,7 @@ Global Top 100 Innovative Universities</a></h3>
     I finished my common core, it means i graduated and means
     also i am a 42 students for my entire life.
     
-    <br>
+   <br>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42img.png" width="100%">42 Cursus Projects</a>
