@@ -7,16 +7,16 @@
   <h1 align="center" style="text-decoration: underline;">See my projects here</h1>
   # 42corso
 <a href="https://www.42roma.it">Cos'é 42?</a>
-<h3>Repositories are now private: C, C++, Docker and Web</h3>
+<h3>Repositories are based on: C, C++, Docker and Web</h3>
 <table>
  <tr>
-<td>Questa Repository:</td><td> https://github.com/iafi01/42corso.git</td><td></td>
+<td>This Repository:</td><td> https://github.com/iafi01/42corso.git</td><td></td>
  </tr>
   <tr>
 <td>Utils:</td><td> <!---https://github.com/iafi01/subject_correction-->
 </td><td></td>
  </tr>
- <td>PISCINA :</td><td> https://github.com/iafi01/Piscina</td><td><b>Ammesso</b></td><td><b>Assignation</b></td>
+ <td>PISCINE :</td><td> https://github.com/iafi01/Piscina</td><td><b>Admitted</b></td><td><b>Assignation</b></td>
  </tr>
  <tr>
 <td>LIBFT :</td><td> https://github.com/iafi01/libft</td><td> <b>115/100</b></td><td><a href="libft.pdf">PDF</a></td>
