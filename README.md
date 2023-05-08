@@ -28,6 +28,7 @@ Global Top 100 Innovative Universities</a></h3>
    <br>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
+  <img src="42img.png" width="100%">
   <h1 align="center" style="text-decoration: underline;">See my projects here</h1>
 <h3>Repositories are based on: C, C++, Docker and Web</h3>
 <table>
