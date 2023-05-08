@@ -1,3 +1,7 @@
+
+<h3 align="center">IAFI 👋 </h3>
+<a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
+<foreignObject width="100%" height="100%">
 <style>
 * {
   box-sizing: border-box;
@@ -16,8 +20,6 @@
   display: table;
 }
 </style>
-<h3 align="center">IAFI 👋 </h3>
-<a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
 <div class="row">
   <div class="column">
     <img src="42_rank.jpeg" alt="rank" style="width:100%">
@@ -25,6 +27,7 @@
   <div class="column">
     <img src="42_leaderboard.png" alt="leaderboard" style="width:100%">
   </div>
+  </foreignObject>
   <h1 align="center">My Student Profile</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
