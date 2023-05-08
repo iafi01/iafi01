@@ -5,7 +5,8 @@
 <tr>
 <td><img src="42_rank.jpeg" alt="rank" style="width:100%"></td>
 <td>
-<h3 align="center"><a href="https://www.wuri.world/2022-global-top-100">Wuri World 2022</a></h3>
+<h3 align="center"><a href="https://www.wuri.world/2022-global-top-100">
+Global Top 100 Innovative Universities</a></h3>
 <img src="42_leaderboard.png" alt="leaderboard" style="width:100%;">
 </td>
 </tr>
