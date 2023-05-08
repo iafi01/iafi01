@@ -119,7 +119,9 @@ Global Top 100 Innovative Universities</a></h3>
     
 <br>
 <img src="42_achievements.png" alt="leaderboard" style="width:100%;">
-<br>
+<br><br>
+<h1 align="center">Lorenzo Languages</h1>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iafi01)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
