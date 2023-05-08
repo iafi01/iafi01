@@ -3,7 +3,7 @@
 <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
 <table>
 <tr>
-<td><img src="42_leaderboard.png" alt="leaderboard" style="width:100%"></td>
+<td><img src="42_leaderboard.png" alt="leaderboard" style="width:100%;height:100%;"></td>
 <td><img src="42_rank.jpeg" alt="rank" style="width:100%"></td>
 </tr>
 </table>
