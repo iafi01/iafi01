@@ -54,4 +54,11 @@ Strong Languages & Tools: <br><br>
 <br>
 <br>
 <hr>
+<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+  <ul style="list-style: none;">
+    <li>🔭 I’m currently working with <a href="https://www.42berlin.de/"><strong>42 Berlin</strong></a></li>
+    <li>🌱 I’m currently workingon <strong>Python,Csv, Machine Learning tasks</strong></li>
+    <li>📫 How to reach me <strong>lorenzoiafigliola@gmail.com<strong></li>
+  </ul>
+<hr>
 
