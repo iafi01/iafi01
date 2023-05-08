@@ -3,8 +3,8 @@
 <a href="https://en.wikipedia.org/wiki/42_(school)"><h2 align="center">What is 42 ?</h2></a>
 <br>
 
-    42 is a global coding school teaching methods are 
-    based on peer learning: no teachers, no lectures, fully hands on. 
+    42 is a global coding school teaching methods are based on
+    peer learning: no teachers, no lectures, fully hands on. 
     It allows students to free their creativity through project learning.
     
 <br>
