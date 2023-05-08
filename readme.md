@@ -9,6 +9,8 @@
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Networking, business and startups as hobbies.
 
+<hr>
+
 ### Languages & Frameworks
 <table>
   <tr>
