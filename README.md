@@ -1,13 +1,12 @@
 <h3 align="center">IAFI 👋 </h3>
-<h4  align="center"><a href="https://github.com/iafi01/42corso">42 Cursus Projects</a></h4>
+<a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
+  <img style="margin:auto;" src="42_rank.jpeg" width="50%">
   <h1 align="center">My Student Profile</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42img.png" width="100%">42 Cursus Projects</a>
   <h1 align="center" style="text-decoration: underline;">See my projects here</h1>
   # 42corso
-  <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">What is 42?</h1></a>
-  <img style="margin:auto;" src="42_rank.jpeg" width="65%">
   <a href="">Top Ten World University</a>
 <h3>Repositories are based on: C, C++, Docker and Web</h3>
 <table>
@@ -82,7 +81,8 @@
 <td>Exam06 :</td><td> https://github.com/iafi01/exam06</td><td><b>Privato</b></td><td></td>
  </tr>
 </table>
-<br><br><br>
+<br><br><h4  align="center"><a href="https://github.com/iafi01/42corso">42 Cursus Projects</a></h4>
+<br>
 
 
 
