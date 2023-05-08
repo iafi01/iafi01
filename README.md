@@ -6,7 +6,9 @@
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42img.png" width="100%">42 Cursus Projects</a>
   <h1 align="center" style="text-decoration: underline;">See my projects here</h1>
   # 42corso
-<a href="https://www.42roma.it">Cos'é 42?</a>
+  <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">What is 42?</h1></a>
+  <img style="margin:auto;" src="42_rank.jpeg" width="100%">
+  <a href="">Top Ten World University</a>
 <h3>Repositories are based on: C, C++, Docker and Web</h3>
 <table>
  <tr>
