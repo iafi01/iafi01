@@ -7,7 +7,7 @@
 <td>
 <h3 align="center"><a href="https://www.wuri.world/2022-global-top-100">
 Global Top 100 Innovative Universities</a></h3>
-<img src="42_leaderboard.png" alt="leaderboard" style="width:100%;">
+<img src="wuri_leaderboard.png" alt="leaderboard" style="width:100%;">
 </td>
 </tr>
 </table>
