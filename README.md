@@ -95,7 +95,7 @@ Global Top 100 Innovative Universities</a></h3>
 <h6  align="center"><a href="https://github.com/iafi01/42corso">42 Cursus Projects</a></h6>
 <br><h4  align="center"><a href="https://github.com/iafi01/42corso">42 Cursus Projects</a></h4>
 <h1 align="center">Lorenzo 42 Achievements</h1>
-<img src="wuri_leaderboard.png" alt="leaderboard" style="width:100%;">
+<img src="42_achievements.png" alt="leaderboard" style="width:100%;">
 <br>
 
 
