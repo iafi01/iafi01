@@ -1,6 +1,7 @@
 
 <h3 align="center">IAFI 👋 </h3>
 <a href="https://en.wikipedia.org/wiki/42_(school)"><h1 align="center">Who is a 42 Student</h1></a>
+<img style="margin:auto;" src="rank.svg" width="100%">
 <foreignObject width="100%" height="100%">
 <style>
 * {
