@@ -12,7 +12,7 @@
 <hr>
 
 ### Languages & Frameworks
-<table>
+<table border="0">
   <tr>
     <td>
 Frontend Languages: <br><br>
