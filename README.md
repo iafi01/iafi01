@@ -1,5 +1,5 @@
 
-<h1 align="center">Lorenzo graduate at 42</h1>
+<h1 align="center">Lorenzo graduated at 42</h1>
 <a href="https://en.wikipedia.org/wiki/42_(school)"><h2 align="center">What is 42 ?</h2></a>
 <br>
 
