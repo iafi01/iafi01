@@ -112,6 +112,12 @@ Global Top 100 Innovative Universities</a></h3>
  </tr>
 </table>
 <h1 align="center">Lorenzo 42 Achievements</h1>
+<br>
+
+    During the course you can unlock achievements like in a videogame,
+    but where the main purpose is not have fun, but have learnt
+    
+<br>
 <img src="42_achievements.png" alt="leaderboard" style="width:100%;">
 <br>
 
