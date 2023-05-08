@@ -53,7 +53,7 @@ Global Top 100 Innovative Universities</a></h3>
 <td>PRINTF :</td><td> https://github.com/iafi01/printf</td><td><b>100/100</b></td><td><a href="printf.pdf">PDF</a></td>
  </tr>
  <tr>
-<td>ESAME 02:</td><td> https://github.com/iafi01/exam02</td><td><b>Privato</b></td><td></td>
+<td>EXAM 02:</td><td> https://github.com/iafi01/exam02</td><td><b>Private</b></td><td></td>
  </tr>
  <tr>
 <td>FT_SERVER :</td><td> https://github.com/iafi01/ft_server</td><td><b>100/100</b></td><td><a href="ft_server.pdf">PDF</a></td>
@@ -71,7 +71,7 @@ Global Top 100 Innovative Universities</a></h3>
 <td>PUSH_SWAP :</td><td> https://github.com/iafi01/push_swap</td><td><b>86/100</b></td><td><a href="push_swap.pdf">PDF</a></td>
  </tr>
   <tr>
-<td>EXAM03 :</td><td> https://github.com/iafi01/exam03</td><td><b>Privato</b></td><td></td>
+<td>EXAM03 :</td><td> https://github.com/iafi01/exam03</td><td><b>Private</b></td><td></td>
  </tr>
  <tr>
 <td>PHILOSOPHERS :</td><td> https://github.com/iafi01/philosophers</td><td><b>100/100</b></td><td><a href="Philosophers.pdf">PDF</a></td>
@@ -81,7 +81,7 @@ Global Top 100 Innovative Universities</a></h3>
  </tr>
   <tr>
   <tr>
-<td>EXAM04 :</td><td> https://github.com/iafi01/exam04</td><td><b>Privato</b></td><td></td>
+<td>EXAM04 :</td><td> https://github.com/iafi01/exam04</td><td><b>Private</b></td><td></td>
  </tr>
  <tr>
 <td>C++ :</td><td> https://github.com/iafi01/cpp</td><td><b>100/100</b></td><td></td>
@@ -93,7 +93,7 @@ Global Top 100 Innovative Universities</a></h3>
 <td>Netpractice :</td><td> https://github.com/iafi01/netpractice</td><td><b>100/100</b></td><td><a href="Netpractice.pdf">PDF</a></td>
  </tr>
  <tr>
-<td>Exam05 :</td><td> https://github.com/iafi01/exam05</td><td><b>Privato</b></td><td><a href="transcendence_FINAL.pdf">PDF</a></td>
+<td>Exam05 :</td><td> https://github.com/iafi01/exam05</td><td><b>Private</b></td><td><a href="transcendence_FINAL.pdf">PDF</a></td>
  </tr>
  <tr>
 <td>Ft_irc :</td><td> https://github.com/iafi01/ft_irc</td><td><b>100/100</b></td><td><a href="ft_irc.pdf">PDF</a></td>
@@ -102,7 +102,7 @@ Global Top 100 Innovative Universities</a></h3>
 <td>Trascendence :</td><td> https://github.com/iafi01/Trascendence</td><td><b>100/100</b></td><td><a href="transcendence_FINAL.pdf">PDF</a></td>
  </tr>
  <tr>
-<td>Exam06 :</td><td> https://github.com/iafi01/exam06</td><td><b>Privato</b></td><td></td>
+<td>Final Exam06 :</td><td> https://github.com/iafi01/exam06</td><td><b>Private</b></td><td></td>
  </tr>
 </table>
 <h1 align="center">Lorenzo 42 Achievements</h1>
