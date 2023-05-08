@@ -9,7 +9,6 @@
 - 🍭 &nbsp; Networking, business and startups as hobbies.
 
 ### Languages & Frameworks
-<br>
 <table>
   <tr>
     <td>
