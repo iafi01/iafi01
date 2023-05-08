@@ -121,30 +121,7 @@ Global Top 100 Innovative Universities</a></h3>
 <img src="42_achievements.png" alt="leaderboard" style="width:100%;">
 <br><br>
 <h1 align="center">Lorenzo Languages</h1>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=iafi01&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01)" />
-</picture>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=iafi01&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01)]
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iafi01&hide_progress=true">
 
 
 
