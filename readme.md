@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Lorenzo.</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=45&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Startup;Software+Engineer;Blockchain+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=45&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=Startup;Software+Engineer;Blockchain+Enthusiast;)](https://git.io/typing-svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
