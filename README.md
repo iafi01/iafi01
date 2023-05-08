@@ -4,7 +4,10 @@
 <table>
 <tr>
 <td><img src="42_rank.jpeg" alt="rank" style="width:100%"></td>
-<td><img src="42_leaderboard.png" alt="leaderboard" style="width:100%;"></td>
+<td>
+<a href="https://www.wuri.world/2022-global-top-100"><h3 align="center">Wuri World 2022</h3></a>
+<img src="42_leaderboard.png" alt="leaderboard" style="width:100%;">
+</td>
 </tr>
 </table>
 
