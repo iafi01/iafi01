@@ -3,8 +3,8 @@
   <h1 align="center">My Student Profile</h3>
   <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="profile_42.png" width="100%">
   <h1 align="center">My Student Projects</h3>
-  <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42img.png" width="100%">
-  42 Cursus Projects</a>
+  <a href="https://github.com/iafi01/42corso"><img style="margin:auto;" src="42img.png" width="100%">42 Cursus Projects</a>
+  <a href="https://github.com/iafi01/42corso"><h1 align="center" style="text-decoration: underline;">See my projects here</h1></a>
 
 <!--
 **iafi01/iafi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
