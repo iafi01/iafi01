@@ -7,10 +7,14 @@
 - 💼 &nbsp; Great supporter of blockchain technology for finance and payment applications.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Networking, business and startups as hobbies.
+
+<br><br>
+### Languages & Frameworks
+<br>
 <table>
   <tr>
     <td>
-### Frontend Languages: <br><br>
+Frontend Languages: <br><br>
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,7 +23,7 @@
 <br><br>
     </td>
     <td>
-### Backend/DB Languages: <br><br>
+Backend Languages & DB: <br><br>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -29,7 +33,7 @@
 <br><br>
     </td>
     <td>
-### Strong Languages & Tools: <br><br>
+Strong Languages & Tools: <br><br>
 <img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="github" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
