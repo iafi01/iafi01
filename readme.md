@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Lorenzo.</h2>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=35&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=Startup;Software+Engineer;Blockchain+Enthusiast;)](https://git.io/typing-svg)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,8 +8,6 @@
 - 💼 &nbsp; Great supporter of blockchain technology for finance and payment applications.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🍭 &nbsp; Networking, business and startups as hobbies.
-
-
 
 ### Languages & Frameworks
 <table>
