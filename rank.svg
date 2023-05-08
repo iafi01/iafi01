@@ -1,22 +1,29 @@
 <svg fill="none" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+<style>
+* {
+  box-sizing: border-box;
+}
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+  <div class="column">
+    <img src="42_rank.jpeg" alt="rank" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="42_leaderboard.png" alt="leaderboard" style="width:100%">
+  </div>
+  </foreignObject>
 </svg>
