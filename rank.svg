@@ -20,10 +20,10 @@
 </style>
 <div class="row">
   <div class="column">
-    <img src="42_rank.jpeg" alt="rank" style="width:100%">
+    <img src="42_rank.jpeg" alt="rank" >
   </div>
   <div class="column">
-    <img src="42_leaderboard.png" alt="leaderboard" style="width:100%">
+    <img src="42_leaderboard.png" alt="leaderboard" >
   </div>
   </foreignObject>
 </svg>
