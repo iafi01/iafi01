@@ -99,6 +99,6 @@ Strong Languages & Tools: <br><br>
  <ul style="list-style: none;align-text:center">
     <li>Include me in a team with others fresh minded engineers</li>
     <li>Include me in a team with others hunger fire and ambitious people</li>
-    <li>Let me learn and know more with your mentorship</li>
+    <li>Let me learn, grow and know more with your mentorship</li>
     <li>The key of success team is Flexibility, Hard Work and be Perfectionists</li>
   </ul>
