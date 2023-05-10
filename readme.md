@@ -102,3 +102,5 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/iafi01/libasm">Library in Assembly</a></li>
   </ul>
 <hr>
+      <br>
+      <h1 align="center"><a href="https://github.com/42corso">:warning: [ Privacy Alert ] <br> Please Do Not Look Here:bangbang:</a></h1>
