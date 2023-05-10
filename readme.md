@@ -68,9 +68,9 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/maikesama/42_ft_trascendence">Multiplayer Online Game</a></li>
     <li><a href="https://github.com/iafi01/electron-calculator">Build Calculator from scratch</a></li>
     <li><a href="https://github.com/iafi01/ft_server">System Administration</a></li>
-    <li><a href="https://github.com/iafi01/CuorDiPane">E-Commerce Mobile App (Private)</a></li>
-    <li><a href="https://github.com/iafi01/Edif-Forniture">E-Commerce PHP Web (Private)</a></li>
-    <li><a href="https://github.com/iafi01/casadeidolci">Pastry shop PHP CRM (Private)</a></li>
+    <li><a href="https://github.com/iafi01/CuorDiPane">[Private] E-Commerce Mobile App</a></li>
+    <li><a href="https://github.com/iafi01/Edif-Forniture">[Private] E-Commerce PHP Web</a></li>
+    <li><a href="https://github.com/iafi01/casadeidolci">[Private] Pastry shop PHP CRM</a></li>
   </ul>
 <hr>
 <h3 align="center">C/C++</h3>
