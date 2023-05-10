@@ -61,4 +61,28 @@ Strong Languages & Tools: <br><br>
     <li>📫 How to reach me <strong>lorenzoiafigliola@gmail.com<strong></li>
   </ul>
 <hr>
-
+<h2 align="center">Some projects I worked on</h2>
+<hr>
+  <h3 align="center">Full Stack</h3>
+  <ul style="list-style: none;align-text:center">
+    <li><a href="https://github.com/maikesama/ft_transcendence">Multiplayer Online Game</a></li>
+    <li><a href="https://github.com/iafi01/electron-calculator">Build Calculator from scratch</a></li>
+    <li><a href="https://github.com/iafi01/CuorDiPane">E-Commerce Mobile App (Private)</a></li>
+    <li><a href="https://github.com/iafi01/Edif-Forniture">E-Commerce PHP Web (Private)</a></li>
+    <li><a href="https://github.com/iafi01/casadeidolci">Pastry shop PHP CRM (Private)</a></li>
+  </ul>
+<hr>
+<h3 align="center">C/C++</h3>
+  <ul style="list-style: none;align-text:center">
+    <li><a href="https://github.com/maikesama/push_swap">Algorithm</a></li>
+    <li><a href="https://github.com/iafi01/ft_irc">Irc Server</a></li>
+    <li><a href="https://github.com/iafi01/minishell2">Build Shell from scratch</a></li>
+    <li><a href="https://github.com/iafi01/mini_rt">Build RayCasting from scratch</a></li>
+    <li><a href="https://github.com/iafi01/printf">Build Printf() from scratch</a></li>
+  </ul>
+<hr>
+  <h3 align="center">Blockchain</h3>
+  <ul style="list-style: none;align-text:center">
+    <li><a href="https://github.com/iafi01/bip39">Bitcoin Graphics Private Key</a></li>
+  </ul>
+<hr>
