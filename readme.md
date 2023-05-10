@@ -103,4 +103,5 @@ Strong Languages & Tools: <br><br>
   </ul>
 <hr>
       <br>
-      <h1 align="center"><a href="https://github.com/42corso">:warning: [ Privacy Alert ] <br> Please Do Not Look Here:bangbang:</a></h1>
+      <h1 align="center"><a href="https://github.com/42corso">:warning:  Privacy Alert  </a></h1> 
+        <h2 align="center"><a href="https://github.com/42corso"> Please Do Not Look Here:bangbang:</a></h2>
