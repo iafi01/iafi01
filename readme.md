@@ -65,7 +65,7 @@ Strong Languages & Tools: <br><br>
 <hr>
   <h3 align="center">Full Stack</h3>
   <ul style="list-style: none;align-text:center">
-    <li><a href="https://github.com/maikesama/ft_transcendence">Multiplayer Online Game</a></li>
+    <li><a href="https://github.com/maikesama/42_ft_trascendence">Multiplayer Online Game</a></li>
     <li><a href="https://github.com/iafi01/electron-calculator">Build Calculator from scratch</a></li>
     <li><a href="https://github.com/iafi01/CuorDiPane">E-Commerce Mobile App (Private)</a></li>
     <li><a href="https://github.com/iafi01/Edif-Forniture">E-Commerce PHP Web (Private)</a></li>
