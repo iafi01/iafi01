@@ -86,7 +86,8 @@ Strong Languages & Tools: <br><br>
   <h3 align="center">Blockchain</h3>
   <ul style="list-style: none;align-text:center">
     <li><a href="https://github.com/iafi01/bip39">Bitcoin Graphics Private Key</a></li>
-    <li><a href="https://github.com/iafi01/nft">NFT Contract & Mint from Web</a></li>
+    <li><a href="https://github.com/iafi01/nft">[Private] NFT Contract & Mint from Web</a></li>
+    <li><a href="https://github.com/iafi01/bots">[Private] Blockchain Web3.js Bots</a></li>
   </ul>
 <hr>
 <h3 align="center">Assembly</h3>
