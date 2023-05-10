@@ -52,6 +52,13 @@ Strong Languages & Tools: <br><br>
   </tr>
   </table>
 <br>
+<h2 align="center">How to work with me</h2>
+ <ul style="list-style: none;align-text:center">
+    <li>Include me in a team with others fresh minded engineers</li>
+    <li>Include me in a team with others hunger fire and ambitious people</li>
+    <li>Let me learn, grow and know more with your mentorship</li>
+    <li>The key of success team is Flexibility, Hard Work and be Perfectionists</li>
+  </ul>
 <br>
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
@@ -95,10 +102,3 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/iafi01/libasm">Library in Assembly</a></li>
   </ul>
 <hr>
-<h2 align="center">How to work with me</h2>
- <ul style="list-style: none;align-text:center">
-    <li>Include me in a team with others fresh minded engineers</li>
-    <li>Include me in a team with others hunger fire and ambitious people</li>
-    <li>Let me learn, grow and know more with your mentorship</li>
-    <li>The key of success team is Flexibility, Hard Work and be Perfectionists</li>
-  </ul>
