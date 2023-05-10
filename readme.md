@@ -57,7 +57,7 @@ Strong Languages & Tools: <br><br>
     <li>Include me in a team with others fresh minded engineers</li>
     <li>Include me in a team with others hunger fire and ambitious people</li>
     <li>Let me learn, grow and know more with your mentorship</li>
-    <li>The key of success team is Flexibility, Hard Work and be Perfectionists</li>
+    <li>The key of success team is Perfectionism, Flexibility, Hard Work and Charisma</li>
   </ul>
 <br>
 <hr>
