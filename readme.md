@@ -103,4 +103,4 @@ Strong Languages & Tools: <br><br>
   </ul>
 <hr>
       <br>
-      <h2 align="center"><a href="https://github.com/iafi01/42corso/blob/main/README.md">:warning: Please Do Not Look Here :bangbang:</a></h2>
+      
