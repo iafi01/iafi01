@@ -80,7 +80,7 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/iafi01/casadeidolci">[Private] Pastry shop PHP CRM</a></li>
   </ul>
 <hr>
-<h3 align="center">C/C++</h3>
+<h3 align="center">Best C/C++</ Projectsh3>
   <ul style="list-style: none;align-text:center">
     <li><a href="https://github.com/maikesama/push_swap">Algorithm</a></li>
     <li><a href="https://github.com/iafi01/ft_irc">Irc Server</a></li>
@@ -88,7 +88,7 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/iafi01/mini_rt">Build RayCasting from scratch</a></li>
     <li><a href="https://github.com/iafi01/printf">Build Printf() from scratch</a></li>
     <li><a href="https://github.com/iafi01/libft">Library In C</a></li>
-    <li><a href="">Altro...</a></li>
+    <li><a href="https://github.com/iafi01/iafi01#-hey-there-im-lorenzo">Altro...</a></li>
   </ul>
 <hr>
   <h3 align="center">Blockchain</h3>
