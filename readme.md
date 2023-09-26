@@ -88,6 +88,7 @@ Strong Languages & Tools: <br><br>
     <li><a href="https://github.com/iafi01/mini_rt">Build RayCasting from scratch</a></li>
     <li><a href="https://github.com/iafi01/printf">Build Printf() from scratch</a></li>
     <li><a href="https://github.com/iafi01/libft">Library In C</a></li>
+    <li><a href="">Altro...</a></li>
   </ul>
 <hr>
   <h3 align="center">Blockchain</h3>
