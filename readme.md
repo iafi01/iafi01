@@ -64,7 +64,7 @@ Strong Languages & Tools: <br><br>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul style="list-style: none;align-text:center">
     <li>🔭 I’m currently working with <a href="https://www.gm.com/"><strong>Punch (General Motors)</strong></a></li>
-    <li>🌱 I’m currently workingon <strong>Python,Csv, Machine Learning tasks</strong></li>
+    <li>🌱 I’m currently working on <strong>C Embedded System</strong></li>
     <li>📫 How to reach me <strong>lorenzoiafigliola@gmail.com<strong></li>
   </ul>
 <hr>
